@@ -1,0 +1,13 @@
+Questão n1°
+oque é um branch?
+
+Questão n2°
+Oque é merge?
+
+Resposta n1°:
+é uma ramificação da main
+
+resposta n2°:
+È a junção da ramificação da branch principal com uma ramificação 
+
+
